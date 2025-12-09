@@ -1,6 +1,6 @@
 cask "claudecode-cola" do
-  version "1.0.2"
-  sha256 "8679d235d7050f855ed58f0b06b047a37a0deee6608ef350052cde439ff32d47"
+  version "1.0.3"
+  sha256 "1e85d33506c05be44416e3d88e2b524afdb2b5968ae6052952c1661712ab2e48"
 
   url "https://github.com/HayaKus/ClaudeCode-Cola/releases/download/v#{version}/ClaudeCode-Cola-#{version}.dmg"
   name "ClaudeCode-Cola"
